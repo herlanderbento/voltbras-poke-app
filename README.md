@@ -24,8 +24,8 @@
 <div style="display:grid; grid-template-columns: 1fr 250px; gap:12px;">
  <img src="./src/assets/images/web-app.png"
          alt="web app">
-   <img src="./src/assets/images/mobile-app.png"
-         alt="mobile app">
+   <!-- <img src="./src/assets/images/mobile-app.png"
+         alt="mobile app"> -->
 </div>
 
 ## Key Features
