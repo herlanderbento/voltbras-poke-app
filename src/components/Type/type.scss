@@ -1,0 +1,48 @@
+.type-content {
+  margin-bottom: 1.9rem;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  cursor: pointer !important;
+
+  .checkbox {
+    width: 20px;
+    height: 20px;
+    border-radius: 6px;
+    border: 3px solid var(--gray-200);
+  }
+
+  label {
+    cursor: pointer !important;
+    color: var(--black);
+    font-size: 1.6rem;
+  }
+
+  img{
+    display: none;
+  }
+
+  &.active {
+    img {
+      display: block;
+    }
+    .checkbox {
+      width: 20px;
+      height: 20px;
+      background: #ffffff 0% 0% no-repeat padding-box;
+      box-shadow: 0px 0px 6px #00c1fd99;
+      border: 2px solid #00a7fd;
+      border-radius: 6px;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    label {
+      color: #00a7fd;
+      text-shadow: 0px 0px 6px #00c1fd66;
+    }
+  }
+}

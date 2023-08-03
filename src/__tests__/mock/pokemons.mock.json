@@ -1,0 +1,120 @@
+{
+  "data": {
+    "pokemons": [
+      {
+        "id": "UG9rZW1vbjowMDE=",
+        "name": "Bulbasaur",
+        "number": "001",
+        "classification": "Seed Pokémon",
+        "maxCP": 951,
+        "image": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
+        "types": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "id": "UG9rZW1vbjowMDI=",
+        "name": "Ivysaur",
+        "number": "002",
+        "classification": "Seed Pokémon",
+        "maxCP": 1483,
+        "image": "https://img.pokemondb.net/artwork/ivysaur.jpg",
+        "types": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "id": "UG9rZW1vbjowMDM=",
+        "name": "Venusaur",
+        "number": "003",
+        "classification": "Seed Pokémon",
+        "maxCP": 2392,
+        "image": "https://img.pokemondb.net/artwork/venusaur.jpg",
+        "types": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "id": "UG9rZW1vbjowMDQ=",
+        "name": "Charmander",
+        "number": "004",
+        "classification": "Lizard Pokémon",
+        "maxCP": 841,
+        "image": "https://img.pokemondb.net/artwork/charmander.jpg",
+        "types": [
+          "Fire"
+        ]
+      },
+      {
+        "id": "UG9rZW1vbjowMDU=",
+        "name": "Charmeleon",
+        "number": "005",
+        "classification": "Flame Pokémon",
+        "maxCP": 1411,
+        "image": "https://img.pokemondb.net/artwork/charmeleon.jpg",
+        "types": [
+          "Fire"
+        ]
+      },
+      {
+        "id": "UG9rZW1vbjowMDY=",
+        "name": "Charizard",
+        "number": "006",
+        "classification": "Flame Pokémon",
+        "maxCP": 2413,
+        "image": "https://img.pokemondb.net/artwork/charizard.jpg",
+        "types": [
+          "Fire",
+          "Flying"
+        ]
+      },
+      {
+        "id": "UG9rZW1vbjowMDc=",
+        "name": "Squirtle",
+        "number": "007",
+        "classification": "Tiny Turtle Pokémon",
+        "maxCP": 891,
+        "image": "https://img.pokemondb.net/artwork/squirtle.jpg",
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "id": "UG9rZW1vbjowMDg=",
+        "name": "Wartortle",
+        "number": "008",
+        "classification": "Turtle Pokémon",
+        "maxCP": 1435,
+        "image": "https://img.pokemondb.net/artwork/wartortle.jpg",
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "id": "UG9rZW1vbjowMDk=",
+        "name": "Blastoise",
+        "number": "009",
+        "classification": "Shellfish Pokémon",
+        "maxCP": 2355,
+        "image": "https://img.pokemondb.net/artwork/blastoise.jpg",
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "id": "UG9rZW1vbjowMTA=",
+        "name": "Caterpie",
+        "number": "010",
+        "classification": "Worm Pokémon",
+        "maxCP": 367,
+        "image": "https://img.pokemondb.net/artwork/caterpie.jpg",
+        "types": [
+          "Bug"
+        ]
+      }
+    ]
+  }
+}

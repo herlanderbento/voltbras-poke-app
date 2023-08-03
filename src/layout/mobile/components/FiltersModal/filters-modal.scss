@@ -1,0 +1,51 @@
+.filter-modal-container {
+  padding: 2rem;
+  border-radius: 5rem;
+
+  .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--black);
+    }
+
+    .close{
+      border: 0 !important;
+      background-color: transparent !important;
+
+      font-size: 1.4rem;
+      font-weight: 700;
+    }
+  }
+
+  .ranger-filter label {
+    width: 54px;
+    height: 28px;
+    border: 1.6px solid var(--gray-200);
+    font-size: 1.4rem;
+  }
+
+  .type-content label {
+    cursor: pointer !important;
+    color: var(--black);
+    font-size: 1.4rem;
+  }
+
+  .pokemon-types {
+    margin-top: 4rem;
+
+    span {
+      font-size: 1.4rem;
+      color: var(--gray-400);
+    }
+
+    &-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+}
