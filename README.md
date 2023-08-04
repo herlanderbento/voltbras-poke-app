@@ -56,6 +56,9 @@ $ cd voltbras-poke-app
 # Install dependencies
 $ npm install
 
+# Run the tests
+$ npm run test
+
 # Run the app
 $ npm run dev
 ```
@@ -65,7 +68,7 @@ $ npm run dev
 
 ## Watch a video with an explanation
 
-Here is the link with a brief explanation of the functionality of the project in general, the challenges and the achievements: [Watch here](https://khan.github.io/KaTeX/)
+Here is the link with a brief explanation of the functionality of the project in general, the challenges and the achievements: [Watch here](https://drive.google.com/file/d/1HcZd1y1E-7GFpgtOAxAi3PvR34ePtTfs/view?usp=drive_link)
 
 ## Credits
 
