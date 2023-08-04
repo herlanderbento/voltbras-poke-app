@@ -89,4 +89,4 @@ Follow my github profile and found another projects I've built.
 
 ## Developed By
 
-Herlander Bento
+[Herlander Bento](https://www.linkedin.com/in/herlander-bento-45a39b212/)
